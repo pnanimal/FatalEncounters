@@ -14,7 +14,7 @@ Springboard -- DSC
 <p>
     Fatal Encounters Analysis and Modeling is a study based on the Fatal
 Encounters database chronicling people who have died in connection with an
-off-duty or on police officers. Modeling and exploratory data are presented as
+off-duty or on-duty police officers. Modeling and exploratory data are presented as
 an attempt to understand the underlying basis of trends, and to establish
 connections between discrete fatalities both nationwide and over several
 decades.
